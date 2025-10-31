@@ -3,8 +3,9 @@
 
 # Ex. No. 4 – Scenario-Based Report Development Utilizing Diverse Prompting Techniques
 
-DATE:05.09.2025
-REGISTER NUMBER:212223060075
+### NAME : GUGAPRIYA P
+### DATE:05.09.2025
+### REGISTER NUMBER:212223060075
 
 ---
 
