@@ -104,6 +104,8 @@ The following techniques are tested:
 * Should complement doctors, not replace them.
 
 ---
+<img width="516" height="422" alt="image" src="https://github.com/user-attachments/assets/51546669-8a64-46e7-a8cb-9be00e9133a7" />
+
 
 ## Future Enhancements
 
@@ -113,6 +115,8 @@ The following techniques are tested:
 * **Caregiver Access**: Alerts to family/doctors.
 
 ---
+<img width="543" height="443" alt="image" src="https://github.com/user-attachments/assets/00a47b0a-498f-4316-a98b-28d7469ff273" />
+
 
 ## Result
 
